@@ -1,6 +1,6 @@
 Android学习之路
 -------------
-by [stormzhang.com](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
+>by [stormzhang.com](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
 
 ### 这篇博客背后的故事
 
