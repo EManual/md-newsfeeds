@@ -1,4 +1,4 @@
-# 为什么我们程序员写不出好代码？ - 博客 - 伯乐在线
+# 为什么我们程序员写不出好代码？
 
 每个开发者在编码时，都希望代码像水管的水一样源源不断的流出，思绪不被打断。但在现实开发中，经常会由于一些事情突然中止或停下。本文就总结了现实工作中，影响编码
 进度的15个"拦路虎"。
@@ -106,8 +106,7 @@ c65d82e.jpg)
 在许多情况下，新的工具都没有得到十足的锻炼。例如，Node.js的确非常快，但只有在你重新学习了关于创建进程时死锁的所有知识后才能做到。利用最新的工具是可以
 带来很好的结果，但天下没有免费午餐，并且会为此付出足够多的学习成本。
 
-[![](http://ww2.sinaimg.cn/mw690/e5298966gw1evykwqsj8wj20h802smxh.jpg)](http:/
-/blog.jobbole.com/84342/?utm_source=blog.jobbole.com&utm_medium=articleBanner&
-utm_content=2015.9.16)
+------
 
+原文出处： [InfoWorld](http://www.infoworld.com/d/application-development/15-workplace-barriers-better-code-220975?page=0,0)   译文出处：[CSDN](http://www.csdn.net/article/2013-07-02/2816083-15-workplace-barriers-to-better-code)
 
