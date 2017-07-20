@@ -1,6 +1,5 @@
 ## 10年开发经验总结和爆栈人生
-> 作者： 灵感之源 
-> 原文链接：[http://www.cnblogs.com/unruledboy/p/DevCareer.html](http://www.cnblogs.com/unruledboy/p/DevCareer.html)
+
 ### 简介
 
 网名灵感之源，智能实验室创始人，从事软件开发超过10年，写过千万下载量软件，热衷开源，写过多个爆栈项目(系统开发技术栈、.Net技术栈、数据库技术栈、前端开发技术栈)。现定居于澳大利亚悉尼，研发经理，从事系统架构开发。
@@ -180,3 +179,7 @@
  
 关于猎头，猎头大多不懂技术，而且部分真的很烂，说得不好听，这些烂中介就是买卖人口的，譬如一些从来不答复你，一些说："行啊，我晚点回复你，然后就没下文了"。
 
+------
+
+作者： 灵感之源   
+原文链接：[http://www.cnblogs.com/unruledboy/p/DevCareer.html](http://www.cnblogs.com/unruledboy/p/DevCareer.html)
